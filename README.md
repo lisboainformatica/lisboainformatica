@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Vinicius Andrade, e faço parte da Lisboa Informática
+- 👋 Olá, eu sou Vinicius Andrade, e estou cursando ADS.
 - 👀 Estou interessado em fazer novas parcerias e melhorar os serviços que presto
 - 🌱 Atualmente estou trabalhando com Next.js, Python, JavaScript, TypeScript, HTML, CSS, Docker, MySQL, POSTGRES entre outros
 <!---
